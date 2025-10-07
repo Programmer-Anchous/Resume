@@ -2,9 +2,8 @@
 
 Python, PyQt, Linux, Git
 
-
 Опыт в ML почти нулевой, но хочу заниматься этим в будущем.
-Интересна разработка десктопных приложений.
+Интересует разработка desktop-приложений.
 
 # Проекты
 
@@ -16,5 +15,10 @@ Python, PyQt, Linux, Git
 
 
 ## Другие проекты
-### 2D игра-платформер ([видео](game_demo.mp4))
-### Ремейк игры [Rapid Roll]() с Nokia
+
+### 2D игра-платформер ([полное видео](game_demo.mp4))
+![](game_demo.gif)
+
+
+### Ремейк игры Rapid Roll с Nokia
+<img src="rapid_roll_demo.gif" alt="drawing" height="500"/>
