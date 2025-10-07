@@ -16,20 +16,20 @@ Python, PyQt, Linux, Git
 # Проекты
 
 ### Небольшая программа с использованием OpenCV([полное видео](opencv_demo.mp4))
-![](opencv_demo.GIF)
+<img src="opencv_demo.GIF" alt="drawing" height="300"/>
 
 ### Приложение для наложения эффектов на изображения([полное видео](qt_app.mp4))
-![](qt_app.GIF)
+<img src="qt_app.GIF" alt="drawing" height="300"/>
 
 
 ## Другие проекты
 
 ### 2D игра-платформер ([полное видео](game_demo.mp4))
-![](game_demo.gif)
+<img src="game_demo.gif" alt="drawing" height="300"/>
 
 
 ### Ремейк игры Rapid Roll с Nokia
-<img src="rapid_roll_demo.gif" alt="drawing" height="500"/>
+<img src="rapid_roll_demo.gif" alt="drawing" height="400"/>
 
 # Свобдное время
 
